@@ -7,3 +7,15 @@ Ming Yang, Aimin Zhou, Changhe Li, and Xin Yao, An Efficient Recursive Different
 Optimization: Surrogate ensemble assisted Differential Evolution (SEADE). 
 
 Necessary packages: cec2013lsgo, sklearn, and pyGRNN
+
+
+@Article{Zhong:23,  
+AUTHOR = {Zhong, Rui and Zhang, Enzhi and Munetomo, Masaharu},  
+TITLE = {Cooperative coevolutionary surrogate ensemble-assisted differential evolution with efficient dual differential grouping for large-scale expensive optimization problems},  
+JOURNAL = {Complex \& Intelligent Systems},  
+VOLUME = {},  
+YEAR = {2023},   
+NUMBER = {},  
+ISSN = {},  
+DOI = {https://doi.org/10.1007/s40747-023-01262-6}  
+}
