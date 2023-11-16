@@ -17,5 +17,5 @@ VOLUME = {},
 YEAR = {2023},   
 NUMBER = {},  
 ISSN = {},  
-DOI = {https://doi.org/10.1007/s40747-023-01262-6}  
+DOI = {https://doi.org/10.1007/s40747-023-01262-6 }  
 }
