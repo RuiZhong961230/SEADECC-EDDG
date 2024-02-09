@@ -35,11 +35,11 @@ def DE_exe(subPop, group, func, context, Max_iter, scale_range):
                     Off[j][k] = tPop[j][k]
 
         # Selection
-        for i in range(NIND):
-            OffFit[i] = func(Off[i])
-            if OffFit[i] < tPopFit[i]:
-                tPop[i] = Off[i]
-                tPopFit[i] = OffFit[i]
+        for j in range(NIND):
+            OffFit[j] = func(Off[j])
+            if OffFit[j] < tPopFit[j]:
+                tPop[j] = Off[j]
+                tPopFit[j] = OffFit[j]
 
     bestPop = tPop[np.argmin(tPopFit)]
     bestSubPop = np.zeros(len(group))
