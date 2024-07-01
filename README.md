@@ -9,14 +9,13 @@ Optimization: Surrogate ensemble assisted Differential Evolution (SEADE).
 Necessary packages: cec2013lsgo, sklearn, and pyGRNN
 
 
-@Article{Zhong:23,  
-AUTHOR = {Zhong, Rui and Zhang, Enzhi and Munetomo, Masaharu},  
-TITLE = {Cooperative coevolutionary surrogate ensemble-assisted differential evolution with efficient dual differential grouping for large-scale expensive optimization problems},  
-JOURNAL = {Complex \& Intelligent Systems},  
-VOLUME = {10},  
-YEAR = {2024},   
-PAGES = {2129–2149},  
-NUMBER = {},  
-ISSN = {},  
-DOI = {https://doi.org/10.1007/s40747-023-01262-6 }  
+@ARTICLE{Zhong:24,  
+title={Cooperative coevolutionary surrogate ensemble-assisted differential evolution with efficient dual differential grouping for large-scale expensive optimization problems},  
+author={Rui Zhong and Enzhi Zhang and Masaharu Munetomo},  
+journal={Complex \& Intelligent System},  
+volume={10},  
+number={},  
+pages={2129–2149},  
+year={2024},  
+doi={https://doi.org/10.1007/s40747-023-01262-6 },  
 }
