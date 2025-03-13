@@ -18,3 +18,6 @@ doi={https://doi.org/10.1007/s40747-023-01262-6 },
 
 ## Datasets and Libraries
 CEC2013 large-scale optimization benchmarks are provided by the cec2013lsgo library. Surrogate models are provided by sklearn and pyGRNN libraries.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
